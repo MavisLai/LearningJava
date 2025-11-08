@@ -1,2 +1,2 @@
 # LearningJava
-Collection of all JV Robotics JavaScript Bronx Science Curriculum.
+Collection of all my personal JV Robotics JavaScript Bronx Science Curriculum notes.
